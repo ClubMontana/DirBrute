@@ -1,4 +1,5 @@
-# DirDar v1.0
+# DirBrute
+v1.0
   
 ## Description
 <b>🏴‍☠️ bypass forbidden directories - find and identify dir listing - you can use it as directory brute-forcer as well</b><br>
